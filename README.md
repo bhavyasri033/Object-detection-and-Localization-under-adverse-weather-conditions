@@ -124,9 +124,9 @@ Key Observations:
 
 ##  Author
 
-**Bhavya Sri C.**  
+**Bhavya Sri Chapalamadugu**  
 B.Tech – Computer Science Engineering (AI & ML)  
-Mini Project: Robust Object Classification and Localization under Adverse Weather Conditions  
+Project: Object Classification and Localization under Adverse Weather Conditions  
 
 ---
 
